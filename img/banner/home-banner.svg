@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1076.249" height="596.326" viewBox="0 0 1076.249 596.326">
+  <g id="Groupe_12" data-name="Groupe 12" transform="translate(-102.751 -120.528)">
+    <g id="Ellipse_7" data-name="Ellipse 7" transform="translate(1163 166)" fill="none" stroke="#68a9fd" stroke-width="2">
+      <circle cx="8" cy="8" r="8" stroke="none"/>
+      <circle cx="8" cy="8" r="7" fill="none"/>
+    </g>
+    <g id="Ellipse_8" data-name="Ellipse 8" transform="translate(254 664)" fill="none" stroke="#68a9fd" stroke-width="2" opacity="0.69">
+      <circle cx="8" cy="8" r="8" stroke="none"/>
+      <circle cx="8" cy="8" r="7" fill="none"/>
+    </g>
+    <g id="Ellipse_9" data-name="Ellipse 9" transform="translate(270 243)" fill="none" stroke="#68a9fd" stroke-width="2" opacity="0.69">
+      <circle cx="8" cy="8" r="8" stroke="none"/>
+      <circle cx="8" cy="8" r="7" fill="none"/>
+    </g>
+    <g id="Polygone_1" data-name="Polygone 1" transform="translate(102.751 177.608) rotate(-30)" fill="none" opacity="0.66">
+      <path d="M14,0,28,24H0Z" stroke="none"/>
+      <path d="M 14 3.969270706176758 L 3.482074737548828 22 L 24.51792526245117 22 L 14 3.969270706176758 M 14 0 L 28 24 L 0 24 L 14 0 Z" stroke="none" fill="#68a9fd"/>
+    </g>
+    <g id="Polygone_2" data-name="Polygone 2" transform="matrix(-0.259, -0.966, 0.966, -0.259, 543.033, 167.257)" fill="none" opacity="0.66">
+      <path d="M14,0,28,24H0Z" stroke="none"/>
+      <path d="M 14 3.969270706176758 L 3.482074737548828 22 L 24.51792526245117 22 L 14 3.969270706176758 M 14 0 L 28 24 L 0 24 L 14 0 Z" stroke="none" fill="#68a9fd"/>
+    </g>
+    <g id="Rectangle_23" data-name="Rectangle 23" transform="translate(1069.974 697.801) rotate(-30)" fill="none" stroke="#68a9fd" stroke-width="3" opacity="0.67">
+      <rect width="22" height="22" stroke="none"/>
+      <rect x="1.5" y="1.5" width="19" height="19" fill="none"/>
+    </g>
+    <path id="Union_3" data-name="Union 3" d="M-2863.391,19.608V13.391h-6.217A2.391,2.391,0,0,1-2872,11a2.391,2.391,0,0,1,2.391-2.391h6.217V2.391A2.392,2.392,0,0,1-2861,0a2.391,2.391,0,0,1,2.391,2.391V8.609h6.217A2.391,2.391,0,0,1-2850,11a2.391,2.391,0,0,1-2.391,2.391h-6.217v6.217A2.391,2.391,0,0,1-2861,22,2.391,2.391,0,0,1-2863.391,19.608Z" transform="translate(3193.173 1724.501) rotate(30)" fill="#68a9fd" opacity="0.83"/>
+    <path id="Union_9" data-name="Union 9" d="M-2863.391,19.608V13.391h-6.217A2.391,2.391,0,0,1-2872,11a2.391,2.391,0,0,1,2.391-2.391h6.217V2.391A2.392,2.392,0,0,1-2861,0a2.391,2.391,0,0,1,2.391,2.391V8.609h6.217A2.391,2.391,0,0,1-2850,11a2.391,2.391,0,0,1-2.391,2.391h-6.217v6.217A2.391,2.391,0,0,1-2861,22,2.391,2.391,0,0,1-2863.391,19.608Z" transform="translate(2980.114 2122.801) rotate(30)" fill="#68a9fd" opacity="0.83"/>
+    <path id="Union_4" data-name="Union 4" d="M-2863.391,19.608V13.391h-6.217A2.391,2.391,0,0,1-2872,11a2.391,2.391,0,0,1,2.391-2.391h6.217V2.391A2.392,2.392,0,0,1-2861,0a2.391,2.391,0,0,1,2.391,2.391V8.609h6.217A2.391,2.391,0,0,1-2850,11a2.391,2.391,0,0,1-2.391,2.391h-6.217v6.217A2.391,2.391,0,0,1-2861,22,2.391,2.391,0,0,1-2863.391,19.608Z" transform="matrix(0.966, 0.259, -0.259, 0.966, 3575.889, 863.856)" fill="#68a9fd" opacity="0.59"/>
+  </g>
+</svg>
