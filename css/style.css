@@ -21,22 +21,22 @@
 }
 
 .header_area .main-menu .nav-item .nav-link{
-    font: normal 500 15px/2px var(--montserrat);
+    font: normal 500 15px/2px 'Montserrat';
     text-transform: uppercase;
     font-weight: bold;
-    padding: 1.7rem;
-    color: var(--title-color);
+    padding: 1rem;
+    color: #141313;
 }
 
 .header_area .main-menu .navbar-nav .active a{
-    background: var(--primary-color);
+    background: #68A9FD;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
 }
 
 .header_area .main-menu .navbar-nav a:hover{
-    background: var(--primary-color);
+    background: #68A9FD;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -78,11 +78,11 @@
 }
 
 .site-main .site-banner .site-title h1{
-    font-size: 5rem;
+    font-size: 3.5rem;
 }
 
 .site-main .site-banner .site-title h4{
-    font-size: 1.5rem;
+    font-size: 1rem;
 }
 
 .site-main .site-banner .banner-image > img{
@@ -91,13 +91,13 @@
 }
 
 .site-main .site-banner .my-socials a > i{
-    font-size:35px;
+    font-size:30px;
     padding: 0.5rem;
     color: black;
 }
 
 .site-main .site-banner .my-socials a:hover > i{
-    color: var(--primary-color);
+    color: #68A9FD;
 }
 
 
@@ -112,7 +112,7 @@
 
 .site-main .about-area .about-title h2 > span{
     display: block;
-    font: normal bold 49px/ 60px var(--montserrat);
+    font: normal bold 49px/ 60px 'Montserrat';
     /*letter-spacing: 21px;*/
 }
 
@@ -190,13 +190,13 @@
 }
 
 .site-main .brand-area .experience-area .years-area .years{
-    font: normal bold 84px/40px var(--montserrat);
+    font: normal bold 84px/40px 'Montserrat';
     color: var(--primary-color2);
     z-index: 2;
 }
 
 .site-main .brand-area .experience-area .years-area h2 > span{
-    font: normal 600 22px/30px var(--montserrat);
+    font: normal 600 22px/30px 'Montserrat';
 }
 
 .site-main .brand-area .experience-area .call-area{
@@ -245,7 +245,7 @@
 .site-main .project-area .button-group button{
     background: transparent;
     border: none;
-    font: normal 500 16px/130px var(--montserrat);
+    font: normal 500 16px/130px 'Montserrat';
     text-transform: uppercase;
 }
 
@@ -254,7 +254,7 @@
 }
 
 .site-main .project-area .grid .our-project > .title h4{
-    font: normal 700 25px/12px var(--montserrat);
+    font: normal 700 25px/12px 'Montserrat';
 }
 
 .site-main .project-area .grid .our-project .img a:hover img{
@@ -286,7 +286,7 @@
 }
 
 .site-main .about-area .client .about-client h4{
-    font: normal 500 21px/ 20px var(--montserrat);
+    font: normal 500 21px/ 20px 'Montserrat';
 }
 
 .site-main .about-area .client .about-client p{
@@ -300,7 +300,7 @@
 }
 
 .site-main .about-area .owl-carousel .owl-dots .owl-dot.active span{
-    background: var(--primary-color);
+    background: #68A9FD;
     width: 12px;
     height: 12px;
 }
@@ -318,7 +318,7 @@
 }
 
 .site-main .subscribe-us-area .subscribe .subscribe-title h4{
-    font: normal 700 30px/ 30px var(--montserrat);
+    font: normal 700 30px/ 30px 'Montserrat';
     color: whitesmoke;
 }
 
@@ -333,7 +333,7 @@
     border: 1px solid whitesmoke;
     background: transparent;
     color: white;
-    font: normal 500 17px/20px var(--montserrat);
+    font: normal 500 17px/20px 'Montserrat';
 }
 
 .site-main .subscribe-us-area .subscribe form .input-textbox input::placeholder{
@@ -355,17 +355,17 @@ footer.footer-area{
 }
 
 footer.footer-area .social h5{
-    font: normal 500 23px/ 30px var(--montserrat);
+    font: normal 500 23px/ 30px 'Montserrat';
 }
 
 footer.footer-area .social a > i{
-    font-size:35px;
+    font-size:30px;
     padding: 1rem;
     color: black;
 }
 
 footer.footer-area .social a:hover > i{
-    color: var(--primary-color);
+    color: #68A9FD;
 }
 
 
