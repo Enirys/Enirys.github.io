@@ -139,7 +139,7 @@
 }
 
 .site-main .brand-area .first-row .col-lg-4 > .single-brand{
-    border: 1px solid var(--border-color);
+    border: 1px solid #201f1f17;
     text-align: center;
     padding: 1.8rem 0rem;
     margin: .9rem 0;
